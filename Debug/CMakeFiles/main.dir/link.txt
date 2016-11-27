@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++11 -g   CMakeFiles/main.dir/bin/main.cpp.o  -o main -rdynamic libPoisson_Editing_core.a 

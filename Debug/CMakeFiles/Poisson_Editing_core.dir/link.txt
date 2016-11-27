@@ -1,0 +1,2 @@
+/usr/bin/ar cq libPoisson_Editing_core.a  CMakeFiles/Poisson_Editing_core.dir/src/ColorRGB.cpp.o CMakeFiles/Poisson_Editing_core.dir/src/Image.cpp.o CMakeFiles/Poisson_Editing_core.dir/src/Vecnd.cpp.o CMakeFiles/Poisson_Editing_core.dir/src/Matrix.cpp.o
+/usr/bin/ranlib libPoisson_Editing_core.a
